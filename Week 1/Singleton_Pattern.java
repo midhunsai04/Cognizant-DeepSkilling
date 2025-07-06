@@ -1,4 +1,4 @@
-public class SingletonPatternExample {
+public class Singleton_Pattern {
 
     static class Logger {
         private static Logger instance;

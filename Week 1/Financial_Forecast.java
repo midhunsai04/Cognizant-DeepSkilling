@@ -1,4 +1,4 @@
-public class FinancialForecast {
+public class Financial_Forecast {
 
         public static double futureValueRecursive(double presentValue, double rate, int years) {
             if (years == 0)

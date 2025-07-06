@@ -1,4 +1,4 @@
-public class FactoryMethodPatternExample {
+public class Factory_Method_Pattern {
         interface Document {
             void open();
         }
